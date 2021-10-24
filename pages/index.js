@@ -86,7 +86,7 @@ const index = () => {
       {console.log(cardNumberValue)}
 
       <div className="bg-[#F7FAFC] w-full h-screen flex flex-col items-center justify-center z-0">
-        <div className="container">
+        <div className="">
           <h1 className="text-4xl mb-12 text-center">Payment Page</h1>
           <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 gap-4 p-4">
             <div className=" px-6">
